@@ -29,8 +29,8 @@ This project presents an interactive analysis of IT Costs using Power BI, based 
 
 ## 📁 Files
 
-- `CustoTI.pbix`: Power BI report file
-- Data Source: Excel file (not included for confidentiality)
+- `Custo TI (online_completo).pbix`: Power BI report file
+- Data Source: Excel file (not included)
 
 ---
 
