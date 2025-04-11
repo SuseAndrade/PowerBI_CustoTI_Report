@@ -1,4 +1,4 @@
-# 💼 Custo TI - Power BI Report
+# 💼 Power BI Report: IT Cost Analysis
 
 This project presents an interactive analysis of IT Costs using Power BI, based on Excel data. It explores budgeted versus actual values across time, business areas, and regions — with filters and dynamic visuals that support better decision-making.
 
